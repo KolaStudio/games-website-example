@@ -1,5 +1,4 @@
 function showTime(){
     const now = new Date();
-    alert (now.toTimeString());
-    
+    alert(now.toTimeString());
 }
