@@ -1,0 +1,3 @@
+showTime(){
+    alert("test");
+}
